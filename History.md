@@ -1,3 +1,14 @@
+unreleased
+==========
+
+  * Improved fix for open redirect allow list bypass
+
+4.19.0 / 2024-03-20
+==========
+
+  * Prevent open redirect allow list bypass due to encodeurl
+  * deps: cookie@0.6.0
+
 4.18.2 / 2022-10-08
 ===================
 
